@@ -1,10 +1,10 @@
 # codec_technologies
-# Real-Time Stock Market Dashboard & Authentication API
+# Real-Time Stock Market Dashboard & Secure Authentication System
 
 This repository contains two integrated projects:
 
 1. **Real-Time Stock Market Dashboard** – A Streamlit-based dashboard for live stock data visualization with technical indicators.
-2. **User Authentication API** – A Flask-based REST API for user registration, login, and protected route access using JWT authentication.
+2. **Secure Authentication System** – A Flask-based REST API for user registration, login, and protected route access using JWT authentication.
 
 ---
 
